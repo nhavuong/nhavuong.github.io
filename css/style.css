@@ -514,14 +514,14 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #contact {
-  height: auto;
+  height: 400px;
   width: 100%;
 }
 
 .contact-details {
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding: 50px;
 
 }
 .email{
@@ -529,7 +529,7 @@ nav ul li a {
 }
 
 .contact-details li {
-  padding-bottom: 10px;
+  padding-bottom: 20px;
 }
 
 #contact input, #contact textarea {
@@ -575,8 +575,8 @@ nav ul li a {
 
 #footer {
   background: #f7f7f7;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 70px;
+  padding-bottom: 70px;
 }
 
 #footer .socials-media {
@@ -586,7 +586,7 @@ nav ul li a {
 #footer .socials-media ul {
   display: inline-block;
   float: none;
-  margin: 0 0 20px 0;
+  margin: 0 0 10px 0;
 }
 
 #footer .socials-media ul li {
